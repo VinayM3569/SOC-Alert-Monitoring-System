@@ -1,6 +1,5 @@
 # SOC-Alert-Monitoring-System
-Create README (copy-paste this into the file)
-cat > README.md << 'EOF'
+
 
 🛡️ SOC Monitoring & Alert System
 A fully functional Security Operations Center (SOC) lab built to monitor, detect, and respond to cybersecurity threats in real time.
